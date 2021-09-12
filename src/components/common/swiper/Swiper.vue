@@ -149,7 +149,7 @@ export default {
       this.runTimer();
     },
   },
-};
+}; 
 </script>
 
 <style scoped>
